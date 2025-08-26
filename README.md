@@ -3,7 +3,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Adminstorter/500px-downloader?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Adminstorter/500px-downloader?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/Adminstorter/500px-downloader?style=for-the-badge)
 
 ---
 
