@@ -17,7 +17,7 @@
 ## 🎨 项目截图
 
 <div align="center">
-<img src="screenshot.png" alt="程序截图" width="600">
+<img src="docs/screenshot.png" alt="程序截图" width="600">
 </div>
 
 ---
